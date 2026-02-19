@@ -9,24 +9,24 @@ The project demonstrates **file handling, structures, and menu-driven programmin
 
 ## 📌 Features
 
-### Administrator
+### 👤 Administrator
 - Add New Student Records
 - Add New Course Details
 - View New Student Records
 - View Student Enrolled Records
 - View Course Roster
 
-### Staff
+### 👤 Staff
 - View New Student Records
 - View Student Enrolled Records
 - View Course Roster
 
-### Student
+### 👤 Student
 - Enroll In Course
 - Withdraw From Course
 - Enroll and Withdraw Course
 
-### Additional
+### ➕ Additional
 - Role-based login system with username and password
 - File-based storage for persistence (`student.txt`, `enrolled.txt`, course-specific text files)
 - Menu-driven interface for easy navigation
