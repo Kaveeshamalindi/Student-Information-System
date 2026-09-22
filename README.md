@@ -46,7 +46,6 @@ The project demonstrates **file handling, structures, and menu-driven programmin
 1. Download or clone this repository.
 2. Open the project folder in Dev C++ (or any C++ IDE).
 3. Compile and run the program.
-4. Enter two integers to calculate their GCD.
 
 ---
 
